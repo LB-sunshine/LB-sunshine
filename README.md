@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### 🌱 My research interests include intelligent fault diagnosis and RUL.
 ### 🔭 My published papers:
 
-1. Under Review
+1. Revise
 
 2. Writing the manuscript
 
