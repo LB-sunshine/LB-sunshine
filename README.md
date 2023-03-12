@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### 🌱 My research interests include intelligent fault diagnosis and RUL.
 ### 🔭 My published papers:
 
-1. To be published;The code will be open source later.
+1. The code will be open source later.
 
 2. Writing the manuscript
 
