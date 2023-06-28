@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 
 1. The code will be open source later.
 
-2. Writing the manuscript
+2. Under Review.
+
+3. Writing the manuscript.
 
 ### 👯
 [![GitHub ohmycaptainnemo](https://img.shields.io/github/followers/LB-sunshine?label=follow&style=social)](https://github.com/LB-sunshine)
