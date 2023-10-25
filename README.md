@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 1. The code will be open source later.
 
-2. Under Review.
+2. The code will be open source later.
 
 3. Writing the manuscript.
 
