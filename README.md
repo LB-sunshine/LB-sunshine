@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 2. The code will be open source later.
 
-3. Writing the manuscript.
+3. Under review.
 
 4. Writing the manuscript.
 
