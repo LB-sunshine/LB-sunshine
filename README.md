@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 3. The code will be open source later.
 
-4. Writing the manuscript.
+4. Under review.
 
 ### 👯
 [![GitHub ohmycaptainnemo](https://img.shields.io/github/followers/LB-sunshine?label=follow&style=social)](https://github.com/LB-sunshine)
