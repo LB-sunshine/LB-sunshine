@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### ❤️ 写在前面
-特别鸣谢 (H.C bro) 前人指引----站在巨人的肩膀，会看得更远！
+特别鸣谢所有朋友！
 ### ⚡记录学术小白的升级之路
 
 ### 🌱 My research interests include intelligent fault diagnosis and RUL.
