@@ -15,20 +15,9 @@ Here are some ideas to get you started:
 
 ### ❤️ 写在前面
 特别鸣谢所有朋友！
-### ⚡记录学术小白的升级之路
 
 ### 🌱 My research interests include intelligent fault diagnosis and RUL.
-### 🔭 My published papers:
-
-1. The code will be open source later.
-
-2. The code will be open source later.
-
-3. The code will be open source later.
-
-4. The code will be open source later.
-
-5. Under review.
+### 🔭 The code will be open source later.
 
 ### 👯
 [![GitHub ohmycaptainnemo](https://img.shields.io/github/followers/LB-sunshine?label=follow&style=social)](https://github.com/LB-sunshine)
